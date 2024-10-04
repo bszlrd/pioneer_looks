@@ -1,0 +1,9 @@
+material material0
+tex_diff cargopod.dds
+tex_glow glow.dds
+tex_spec specular.dds
+specular 0.7 0.7 0.7
+shininess 40
+use_patterns
+
+mesh cargopod.dae
