@@ -7,3 +7,14 @@
 VERSION 1
 
 ce9043ff-43f8-4b04-9d1f-0fbfee011919:Blockout:Blockout
+b5d6cf51-0fd6-4cc9-abca-57a61afb3bc1:Blockout/Cabins:Blockout-Cabins
+094c2bd3-8d61-40b3-95e3-547bc436fa63:Blockout/Cargo:Blockout-Cargo
+d6adb30d-30b2-41f7-922e-7cf04dab9a67:Blockout/Cockpit:Blockout-Cockpit
+85b8f9f7-1d1b-440e-8f50-74c1ac0455c1:Blockout/Docking collars:Blockout-Docking collars
+adda1482-4a8d-43a2-bc27-3724b7d2aa98:Blockout/Engines:Blockout-Engines
+7cd2a944-a46c-4ebb-8a34-a915357362c8:Blockout/Fuel:Blockout-Fuel
+beddcb31-1dac-4272-ad1f-e74378fe6d7a:Blockout/Guns:Blockout-Guns
+e7a2acf2-69b4-408d-9c65-fa855fda3996:Blockout/Hyperdrives:Blockout-Hyperdrives
+577dd1aa-1bb7-4177-9809-5c3eac15e322:Blockout/Missiles:Blockout-Missiles
+ea93fa44-8400-4bac-a98b-899b5d151a86:Blockout/Missiles:Blockout-Missiles
+0590eb57-2437-4884-a42b-cd07d23922c4:Blockout/Shields:Blockout-Shields
